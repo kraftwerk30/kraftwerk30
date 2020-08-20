@@ -1,7 +1,7 @@
 ### Hi there 👋 v2
-&lt;script&gt;
+&amp;lt;script&amp;gt;
   console.log('Script works!');
-&lt;/script&gt;
+&amp;lt;/script&amp;lt;
 
 <!--
 **kraftwerk30/kraftwerk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
