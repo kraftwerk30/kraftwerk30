@@ -1,7 +1,6 @@
 ### Hi there 👋 v2
-&amp;lt;script&amp;gt;
-  console.log('Script works!');
-&amp;lt;/script&amp;lt;
+
+![Uh oh...](https://www.example.com/image.png"onload="alert('XSS worked'))
 
 <!--
 **kraftwerk30/kraftwerk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
