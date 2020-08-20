@@ -1,6 +1,8 @@
 ### Hi there 👋 v2
 <script>
-  console.log('Script works!');
+  <script>
+    console.log('Script works!');
+  </script>
 </script>
 
 <!--
