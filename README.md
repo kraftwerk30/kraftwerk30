@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 v2
+<script>
+  console.log('Script works!');
+</script>
 
 <!--
 **kraftwerk30/kraftwerk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
